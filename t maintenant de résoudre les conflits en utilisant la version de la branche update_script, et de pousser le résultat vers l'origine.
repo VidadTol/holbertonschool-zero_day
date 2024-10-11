@@ -1,0 +1,86 @@
+[33mcommit aa5831b6e13117e8b3f7a0575781b0dd9a1b8642[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 9d71fa9 22809e0
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Fri Oct 11 09:04:00 2024 +0200
+
+    resolution conflit update_script
+
+[33mcommit 9d71fa947f7bb994226855fe5c0fd500c0d0e95f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Thu Oct 10 14:17:00 2024 +0200
+
+    How to be up to date in git
+
+[33mcommit 723b2059adbb236973b6b973f7e01c039e1994fc[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Thu Oct 10 14:07:32 2024 +0200
+
+    How to be up to date in git
+
+[33mcommit 800bc706a188ef2510f98f022240e14e705c05c5[m
+Author: DavidTol <vidad31@gmail.com>
+Date:   Thu Oct 10 13:55:10 2024 +0200
+
+    1 er Update README.md
+    
+    1 er mise a jour de README.md
+
+[33mcommit 22809e0e17cb1bc4846cd3cd7cbc7b4240f9e95c[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 15:35:20 2024 +0200
+
+     My personal work
+
+[33mcommit 0405ef2da0943259eca2df82944c48b28639a1d1[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 15:28:55 2024 +0200
+
+     try
+
+[33mcommit 5b3ea480ed7b6c2831ff4d6d3e2b0b166e8fc524[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 14:26:43 2024 +0200
+
+    My personel work
+
+[33mcommit 9d846df4ba8f6da25da8813dc5139f010fba7730[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 13:55:45 2024 +0200
+
+    My personal work
+
+[33mcommit a41ffa7ddb02d8d30a68c9042b533b77536a286f[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 13:39:29 2024 +0200
+
+    Hot fix
+
+[33mcommit 8b498195433f6c7127afe2637e10ef15814d68cc[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 12:02:01 2024 +0200
+
+    Mon travail personnel
+
+[33mcommit 93a8d644f874df43bfdec3fec1cd7b100ab53c25[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 11:05:45 2024 +0200
+
+    Starting to code today, so cool
+
+[33mcommit e3bf4d70df4957b97ef91702c9a40768d73127d3[m
+Author: David Tolza <9769@holbertonstudents.com>
+Date:   Wed Oct 9 10:27:35 2024 +0200
+
+    add directory git
+
+[33mcommit 12242861c7fbeadeb2fbb851b15c01d081f41994[m
+Author: root <root@Vidad.localdomain>
+Date:   Wed Oct 9 10:00:52 2024 +0200
+
+    add README File
+
+[33mcommit f3d65258a8073a6ac05e3a6695cd0edf48c6ea24[m
+Author: root <root@Vidad.localdomain>
+Date:   Wed Oct 9 09:22:08 2024 +0200
+
+    My first commit
